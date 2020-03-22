@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title:
-description: Information about me.
+description:
 github_username: zachmonge
 
 # Email and twitter are optional:
