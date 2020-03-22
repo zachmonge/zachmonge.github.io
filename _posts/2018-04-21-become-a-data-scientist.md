@@ -22,13 +22,13 @@ Python for Data Analysis does cover machine learning, but to learn more, check o
 
 ## 4. [fast.ai](http://www.fast.ai/)
 
-As I mentioned earlier in this post, I am obsessed with deep learning. I find deep learning to be one of the most exciting branches of data science and I am convinced deep learning is going to the change the world (it already has in many ways\!). If you want to learn deep learning, I **highly recommend **taking the [fast.ai MOOC](http://course.fast.ai/). This course was first taught in Keras and is now being taught with PyTorch. The instructors take a top-down teaching approach, in which the course starts off showing you how to train a state of the art deep learning model and as the course progresses you learn more of the details. I am currently taking the first part of this course and they will be posting the second part of this course (the updated version taught in PyTorch) I believe sometime in the summer.
+As I mentioned earlier in this post, I am obsessed with deep learning. I find deep learning to be one of the most exciting branches of data science and I am convinced deep learning is going to the change the world (it already has in many ways\!). If you want to learn deep learning, I **highly recommend** taking the [fast.ai MOOC](http://course.fast.ai/). This course was first taught in Keras and is now being taught with PyTorch. The instructors take a top-down teaching approach, in which the course starts off showing you how to train a state of the art deep learning model and as the course progresses you learn more of the details. I am currently taking the first part of this course and they will be posting the second part of this course (the updated version taught in PyTorch) I believe sometime in the summer.
 
 ## 5. Practice
 
 ![](/images/name/media/image3.png)
 
-As I mentioned before, the real learning occurs when you practice the skills that you learned. **So practice and code as much as you can. **This can be at your own job or your own personal life. For example, I recently created a classifier to classify whether an image contained a clown fish or a damsel (yes, I do have a salt water aquarium with those two types of fish). Another great place to practice machine learning is [Kaggle](https://www.kaggle.com/). Corporations host competitions, which typically involve creating a classifier to make some type of prediction (e.g., the [State Farm Distracted Driving competition](https://www.kaggle.com/c/state-farm-distracted-driver-detection)). Many users post their ideas so this is great for learning what other machine learning practitioners are doing and to receive feedback on your own work.
+As I mentioned before, the real learning occurs when you practice the skills that you learned. **So practice and code as much as you can.** This can be at your own job or your own personal life. For example, I recently created a classifier to classify whether an image contained a clown fish or a damsel (yes, I do have a salt water aquarium with those two types of fish). Another great place to practice machine learning is [Kaggle](https://www.kaggle.com/). Corporations host competitions, which typically involve creating a classifier to make some type of prediction (e.g., the [State Farm Distracted Driving competition](https://www.kaggle.com/c/state-farm-distracted-driver-detection)). Many users post their ideas so this is great for learning what other machine learning practitioners are doing and to receive feedback on your own work.
 
 ## 6. What am I planning to learn next?
 
@@ -36,6 +36,6 @@ As I already mentioned, I am currently taking the fast.ai MOOC. When the second 
 
 ## Final Thoughts
 
-My last piece of advice to aspiring data scientists is **don’t be scared to learn. **There may be concepts or statistical toolboxes that seem complicated (and maybe they are) but I’ve come to find it’s often the case that these things are not as hard as you think. If you stick with it, you will probably be able to figure it out.
+My last piece of advice to aspiring data scientists is **don’t be scared to learn.** There may be concepts or statistical toolboxes that seem complicated (and maybe they are) but I’ve come to find it’s often the case that these things are not as hard as you think. If you stick with it, you will probably be able to figure it out.
 
 I hope people find this useful and will post additional resources that aspiring (or even current) data scientists will find useful.
