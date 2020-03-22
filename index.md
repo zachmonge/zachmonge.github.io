@@ -1,4 +1,4 @@
-# Zachary Monge
+# Zachary Monge, Ph.D.
 
 <p align="center">
   <img src=images/my_picture.jpg width="250">
