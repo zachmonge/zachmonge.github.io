@@ -6,8 +6,8 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Zachary Monge
-description: Information about me.
+title:
+description:
 github_username: zachmonge
 
 # Email and twitter are optional:

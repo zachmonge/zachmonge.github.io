@@ -1,9 +1,10 @@
-I have a *blog*.
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+# Zachary Monge, Ph.D.
+<img src="images/my_picture.jpg" width="250">
 
-<p align="center">
-<img src=images/logo.png>
-</p>
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+## About Me
+I am a data scientist and independent consultant. I use machine learning and analytics to solve business problems. I am an expert in
+machine learning, data analysis, and experimental design. I have experience solving a broad range of machine learning problems
+(e.g., natural language processing, computer vision, tabular).
+<br>
+<br>
+Please contact me if you are in need of data science consulting. [Resume](https://zachmonge.github.io/resume.html)
