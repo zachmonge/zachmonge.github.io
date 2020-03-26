@@ -61,5 +61,3 @@ We can make this even better by varying how long it takes for the learning rate 
 ## Conclusions
 
 As can be seen with this example classification problem, deep learning can be a very powerful tool to solve computer vision (among other) problems **and works perfectly well even with small datasets**. I hope this post will motivate machine learning practitioners that currently do not use deep learning to consider adding deep learning methods to their toolkit even if they do not have access to large computational resources. Deep learning has proven to be able to solve problems that were previously very difficult to solve and, therefore, I believe it is going to continue to revolutionize the field. Again, if you are interested in seeing the code and the example fish dataset, check out my [GitHub.](https://github.com/zachmonge)
-
-#
