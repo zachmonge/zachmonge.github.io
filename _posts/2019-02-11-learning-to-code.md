@@ -1,0 +1,23 @@
+# Learning to Code for Data Scientists and Academics
+
+![](/images/2019-02-11-learning-to-code/media/image1.jpeg)
+
+As a senior grad student I frequently mentor junior lab members (e.g., undergraduate students, post-baccalaureate research assistants, junior grad students). I strongly encourage my colleagues to learn how to code. Even if you don’t plan on becoming a “data scientist,” knowing how to code is a really useful and marketable (at least for now!) skill to have. If you are an “academic,” I can almost guarantee you that coding will at the least save you time processing/analyzing your data and may even increase the quality of your research. You may even find that you enjoy coding — I know I do!
+
+The two languages that I think are best to learn for data scientists and academics are Python and R. Although I think both languages are great to learn, I personally encourage my colleagues to use Python. Python is a relatively easy language to learn and is very flexible. Also, I am a deep learning practitioner and the deep learning libraries are predominately Python-based. Below I have a few suggestions on how to get started with learning to code.
+
+## 1. Learn the Basics
+
+Before diving into all of the machine learning and stats packages, I think it’s important to learn the basics of Python. A really good **free** online resource is [Python for Everybody](https://www.py4e.com/). This resource has lectures and an accompanying textbook with practice exercises. I went through these lectures/chapters when I first started to learn Python. After going through this class you will have a pretty strong foundation in Python.
+
+## 2. Code within Jupyter Notebook
+
+I highly recommend that you code within Jupyter Notebooks. Jupyter Notebook is a web-application based coding environment that allows you to code interactively. These notebooks allow you to easily document your code and create visualizations. For academics, I often will have a Jupyter Notebook that contains the code I used in publications. This allows me to easily refer back to my code and share with others that would like to replicate my analyses. I’ve even used Jupyter Notebooks during informal presentations. There is a really good recent blog post on different Jupyter Notebook features ([click here](https://towardsdatascience.com/bringing-the-best-out-of-jupyter-notebooks-for-data-science-f0871519ca29) for the blog post) that I recommend checking out. You can install Jupyter Notebook along with Python in the [Anaconda Distribution](https://www.anaconda.com/distribution/). **I recommend installing Python this way** because it will also install a lot of useful packages.
+
+## 3. Learn Packages for Data Wrangling, Statistics, Machine Learning, and Data Visualization
+
+Learn Python packages that are useful for data wrangling, statistics, machine learning, and Data Visualization. The big ones are NumPy, Pandas, SciPy, scikit-learn, Matplotlib, and seaborn. I learned these packages through the *Python Data Science Handbook*, freely available on the [author’s website](https://jakevdp.github.io/PythonDataScienceHandbook/). The one drawback of this book is that it does not have any practice exercises*. *I have also heard great things about [Python for Data Analysis](http://shop.oreilly.com/product/0636920050896.do), which was recently updated. This book was written by the creator of Pandas. I would like to get around to going through this book at some point. For academics not necessarily using machine learning, you may also want to check out StatsModels. I often use this package when working with smaller datasets and not using machine learning. For those of you who are not using machine learning methods, I recently came across this [tutorial for statistics in Python](http://scipy-lectures.org/packages/statistics/index.html), which gives a quick introduction to some useful features of these packages.
+
+## Conclusions
+
+After going through these steps you will have a pretty solid foundation in coding skills frequently used by data scientists and academics (not to say there can’t be academic data scientists!). Something to remember as you start learning to code is that it was not easy for anybody when they first started and takes patience. Stick with it, code as much as you can, and you’ll eventually get to the point where you can code like a professional! Good luck with your coding journey and please post in the comments other resources you think would be good for beginner coders!
