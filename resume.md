@@ -1,6 +1,14 @@
 # Resume
 
 ## Experience
+### Data Scientist
+#### Covance: 4/2019 - Present
+- Developed a machine learning approach to reduce clinical trial study costs related to study risk monitoring.
+- Work with clients to solve problems related to clinical trial operations.
+- Created and currently maintain statistical library in Python for anomaly detection product.
+- Developed approaches to recommend rate of study site monitoring visits using k-means, PCA, random forests, and neural networks.
+- Communicate findings and recommendations to multiple company teams.
+
 ### Ph.D. Candidate
 #### Duke University: 8/2015 - Present
 - Used deep learning (e.g., deep convolutional neural networks, recurrent neural networks) and other machine learning methods (e.g., random forests) to map functional MRI brain activation patterns.
