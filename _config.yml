@@ -11,14 +11,14 @@ description:
 github_username: zachmonge
 
 # Email and twitter are optional:
-email:
-twitter_username:
+email: zachmonge@gmail.com
+twitter_username: zachmonge
 
 # Set this to true to get LaTeX math equation support
 use_math:
 
 # Add your Google Analytics ID here if you have one and want to use it
-google_analytics: zachmonge
+google_analytics: UA-162096724-1
 
 # Everything below here can be ignored, unless you want to change the theme entirely
 theme: minima
