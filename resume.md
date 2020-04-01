@@ -10,7 +10,7 @@
 - Communicate findings and recommendations to multiple company teams.
 
 ### Ph.D. Candidate
-#### Duke University: 8/2015 - Present
+#### Duke University: 8/2015 - 4/2020
 - Used deep learning (e.g., deep convolutional neural networks, recurrent neural networks) and other machine learning methods (e.g., random forests) to map functional MRI brain activation patterns.
 - Collected, processed, analyzed, interpreted, presented/wrote results of large datasets.
 - Published peer-reviewed research; please see my [Google Scholar page](https://scholar.google.com/citations?user=6cCiSr4AAAAJ&hl=en&oi=ao).
