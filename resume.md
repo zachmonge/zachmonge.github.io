@@ -1,12 +1,16 @@
 # Resume
 
 ## Experience
+### Principal Consultant
+#### Monge Consulting LLC: 03/2020 - Present
+- I provide consulting services on data science-related topics/projects (e.g., machine learning, statistics, experimental design).
+
 ### Data Scientist
 #### Covance: 4/2019 - Present
 - Developed a machine learning approach to reduce clinical trial study costs related to study risk monitoring.
 - Work with clients to solve problems related to clinical trial operations.
 - Created and currently maintain statistical library in Python for anomaly detection product.
-- Developed approaches to recommend rate of study site monitoring visits using k-means, PCA, random forests, and neural networks.
+- Developed approaches to recommend rate of study site monitoring visits using machine learning methods.
 - Communicate findings and recommendations to multiple company teams.
 
 ### Ph.D. Candidate
