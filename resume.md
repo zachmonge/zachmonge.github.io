@@ -3,32 +3,20 @@
 ## Experience
 ### Principal Consultant
 #### Monge Consulting LLC: 03/2020 - Present
-- I provide consulting services on data science-related topics/projects (e.g., machine learning, statistics, experimental design).
+- Provide consulting services on machine learning applications (e.g., NLP, time series forecasting) and other data science-related topics (e.g., experimental design, statistics) to solve business problems.
+- •	Helped startup develop an AI business plan, develop NLP models, and present work to startup’s potential C-level investors at a large corporation.
 
 ### Data Scientist
 #### Covance: 4/2019 - Present
-- Developed a machine learning approach to reduce clinical trial study costs related to study risk monitoring.
-- Work with clients to solve problems related to clinical trial operations.
-- Created and currently maintain statistical library in Python for anomaly detection product.
-- Developed approaches to recommend rate of study site monitoring visits using machine learning methods.
-- Communicate findings and recommendations to multiple company teams.
+- Provide guidance, development, and deployment of mid- to long-term goals of data products designed to reduce cost of monitoring clinical trials and detect anomalies in clinical trial data. Development and deployment involve using tools such as Python and machine learning libraries (e.g., PyTorch, scikit-learn).
+- Work with clients to solve problems related to clinical trial operations, which frequently involves developing machine learning methods that drive business impact (e.g., clinical trial complexity).
+- Communicate findings/recommendations to multiple company teams, develop training material for data science methods, and provide data science mentorship to colleagues.
 
 ### Ph.D. Candidate
 #### Duke University: 8/2015 - 4/2020
 - Used deep learning (e.g., deep convolutional neural networks, recurrent neural networks) and other machine learning methods (e.g., random forests) to map functional MRI brain activation patterns.
-- Collected, processed, analyzed, interpreted, presented/wrote results of large datasets.
 - Published peer-reviewed research; please see my [Google Scholar page](https://scholar.google.com/citations?user=6cCiSr4AAAAJ&hl=en&oi=ao).
 - Managed/mentored teams of undergraduate/post-bac research assistants and junior graduate students.
-
-### Programmer
-#### Furniture East Inc.: 1/2018 - 5/2018
-- Provided programming assistance (Python) to automate inventory updates for an online furniture store.
-
-### Clinical Research Assistant
-#### University of Pennsylvania: 7/2013 - 8/2015
-- Collected, processed, analyzed, interpreted, and presented results of large datasets.
-- Managed analysis team and collaborated with interdisciplinary teams including PhDs, MDs, and nurses.
-
 
 ## Education
 ### Duke University
@@ -37,3 +25,6 @@
 
 ### Boston University
 - **B.A.** Neurobiology & Psychology
+
+## Technical Skills
+- Advanced statistical modeling, Amazon Web Services (AWS), Bash shell programming, computer vision, deep learning libraries (e.g., PyTorch, fastai), Docker, Git, Google Cloud Platform, Linux, machine learning, MATLAB, natural language processing, Python (including numpy, pandas, scikit-learn, etc.), recommender systems, SAS, SQL, Swift.
