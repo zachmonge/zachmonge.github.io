@@ -4,7 +4,7 @@
 ### Principal Consultant
 #### Monge Consulting LLC: 03/2020 - Present
 - Provide consulting services on machine learning applications (e.g., NLP, time series forecasting) and other data science-related topics (e.g., experimental design, statistics) to solve business problems.
-- •	Helped startup develop an AI business plan, develop NLP models, and present work to startup’s potential C-level investors at a large corporation.
+- Helped startup develop an AI business plan, develop NLP models, and present work to startup’s potential C-level investors at a large corporation.
 
 ### Data Scientist
 #### Covance: 4/2019 - Present
