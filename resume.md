@@ -3,7 +3,7 @@
 ## Experience
 ### Associate Director, Data Science
 #### Merck: 2/2021 - Present
-- Use real world data (RWD) and machine learning/analytics to inform strategy within Global Medical & Scientific Affairs with a focus in oncology.
+- Use real world data (RWD) and machine learning/analytics to inform strategy within Global Medical & Scientific Affairs with a focus in oncology
 
 
 ### Data Scientist
