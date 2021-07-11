@@ -1,13 +1,13 @@
 # Resume
 
 ## Experience
-### Principal Consultant
-#### Monge Consulting LLC: 03/2020 - Present
-- Provide consulting services on machine learning applications (e.g., NLP, time series forecasting) and other data science-related topics (e.g., experimental design, statistics) to solve business problems.
-- Helped startup develop an AI business plan, develop NLP models, and present work to startup’s potential C-level investors at a large corporation.
+### Assocaite Director, Data Science
+#### Merck: 2/2021 - Present
+- Use real world data (RWD) and machine learning/analytics to inform strategy within Global Medical & Scientific Affairs with a focus in oncology.
+
 
 ### Data Scientist
-#### Covance: 4/2019 - Present
+#### Covance: 4/2019 - 2/2021
 - Provide guidance, development, and deployment of mid- to long-term goals of data products designed to reduce cost of monitoring clinical trials and detect anomalies in clinical trial data. Development and deployment involve using tools such as Python and machine learning libraries (e.g., PyTorch, scikit-learn).
 - Work with clients to solve problems related to clinical trial operations, which frequently involves developing machine learning methods that drive business impact (e.g., clinical trial complexity).
 - Communicate findings/recommendations to multiple company teams, develop training material for data science methods, and provide data science mentorship to colleagues.
